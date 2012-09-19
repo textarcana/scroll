@@ -1,7 +1,8 @@
 while [ 1 = 1 ]
-  do 
+  do      
     wget -qO - http://hackurls.com/ascii | \
-      perl -lpe 'use Time::HiRes qw (sleep); 
-                 m{^~} and 
+      perl -lne 'use Time::HiRes qw (sleep); 
+                 m{^~\s(.*)} and 
+                 print qq{$1\n} and 
                  sleep 2.8;'
 done
