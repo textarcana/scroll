@@ -12,4 +12,4 @@ If the script name ends in `.rb`
 
     ruby <name of script>
     
-Once a script is activated it will run forever or until it stops. Ymmv.
+Once a script is activated it will run [forever or until it stops.](http://en.wikipedia.org/wiki/Halting_problem) Ymmv.
