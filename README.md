@@ -1,4 +1,6 @@
-[Imgur](http://i.imgur.com/z5d0al0 "Jack Kerouac's scroll")
+<a href="http://www.telegraph.co.uk/culture/books/booknews/9557844/Original-manuscript-of-Jack-Kerouacs-On-the-Road-to-be-exhibited-in-London.html">
+<img src="http://i.imgur.com/z5d0al0.jpg" title="The legendary 120-foot long manuscript of Jack Kerouac's On the Road."/>
+</a>
 
 # scroll
 
